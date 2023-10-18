@@ -10,13 +10,24 @@
 - 🔭 I’m currently working on [cytroksys](https://github.com/users/suryaprakash251201/projects/1)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suryaprakash2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryaprakash2k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suryaprakash-pichaiya-8260861b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryaprakash-pichaiya-8260861b0" height="30" width="40" /></a>
-<a href="https://fb.com/suryaprakash.pichaiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suryaprakash.pichaiyan" height="30" width="40" /></a>
-<a href="https://instagram.com/suryaprakash_heart_catcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryaprakash_heart_catcher" height="30" width="40" /></a>
-<a href="https://medium.com/@suryaprakash251201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suryaprakash251201" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://linkedin.com/in/suryaprakash-pichaiya-8260861b0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://fb.com/suryaprakash.pichaiyan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/suryaprakash2k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/suryaprakash_heart_catcher/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="linux.suryaprakash@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 <h3 align="left">Read my Blogs posts & Articles:</h3>medium
 <!-- BLOG-POST-LIST:START -->
 <div align="left">
