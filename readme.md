@@ -17,7 +17,7 @@
 <a href="https://instagram.com/suryaprakash_heart_catcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryaprakash_heart_catcher" height="30" width="40" /></a>
 <a href="https://medium.com/@suryaprakash251201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suryaprakash251201" height="30" width="40" /></a>
 </p>
-<h3 align="left">Read my Blogs posts & Articles:</h3>Blogs posts
+<h3 align="left">Read my Blogs posts & Articles:</h3>medium
 <!-- BLOG-POST-LIST:START -->
 <div align="left">
   <a href="https://medium.com/@suryaprakash251201" target="_blank">
