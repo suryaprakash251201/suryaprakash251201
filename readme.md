@@ -32,7 +32,7 @@
 <!-- BLOG-POST-LIST:START -->
 <div align="left">
   <a href="https://medium.com/@suryaprakash251201" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
 <!-- BLOG-POST-LIST:END -->
