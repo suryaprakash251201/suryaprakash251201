@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/suryaprakash-pichaiya-8260861b0" target="_blank">
-    <img src="https://github.com/suryaprakash251201/src/blob/main/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://fb.com/suryaprakash.pichaiyan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
