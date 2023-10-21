@@ -123,5 +123,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash251201&" alt="suryaprakash251201" /></p>
 <div style="text-align: center;">
-<img src="https://github.com/suryaprakash251201/suryaprakash251201/blob/main/src/anubis-golden-jackal-binary-code-sl.jpg" alt="Description of the image" width="1200" height="600">
+<img src="https://github.com/suryaprakash251201/suryaprakash251201/blob/main/src/anubis-golden-jackal-binary-code-sl.jpg" alt="Description of the image">
 </div>
