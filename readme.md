@@ -122,6 +122,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryaprakash251201&show_icons=true&locale=en" alt="suryaprakash251201" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash251201&" alt="suryaprakash251201" /></p>
+<a rel="me" href="https://mastodon.social/@suryaprakash">Mastodon</a>
 <div style="text-align: center;">
 <img src="https://github.com/suryaprakash251201/suryaprakash251201/blob/main/src/anubis-golden-jackal-binary-code-sl.jpg" alt="Description of the image">
 </div>
