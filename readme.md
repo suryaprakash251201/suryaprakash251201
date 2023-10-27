@@ -37,7 +37,7 @@
 </div>
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Knowned Languages and Tools:</h3>
+<h3 align="left">Known Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
