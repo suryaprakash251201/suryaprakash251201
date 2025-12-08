@@ -1,129 +1,142 @@
-<h1 align="center">Hi 👋, I'm SURYAPRAKASH PICHAIYA</h1>
-<h3 align="center">A passionate CYBERSECURITY RESEARCHER from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=20C20E&subpixel=true&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Suryaprakash;Cybersecurity+Researcher;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakash251201&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakash251201" /> </p>
+<div align="center">
+  <h3 style="color: #9E9E9E;">A passionate CYBERSECURITY RESEARCHER from India 🇮🇳</h3>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaprakash251201" alt="suryaprakash251201" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/suryaprakash2k" target="blank"><img src="https://img.shields.io/twitter/follow/suryaprakash2k?logo=twitter&style=for-the-badge" alt="suryaprakash2k" /></a> </p>
-
-- 🔭 I’m currently working on [cytroksys](https://github.com/users/suryaprakash251201/projects/1)
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+<div align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=suryaprakash251201&label=Profile%20views&color=20C20E&style=flat-square" alt="suryaprakash251201" />
+  <br/><br/>
+  
+  <!-- Social Links - Using Shields for a cleaner UI -->
   <a href="https://linkedin.com/in/suryaprakash-pichaiya-8260861b0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://fb.com/suryaprakash.pichaiyan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/suryaprakash2k" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/suryaprakash_heart_catcher/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="linux.suryaprakash@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:linux.suryaprakash@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://fb.com/suryaprakash.pichaiyan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
-<h3 align="left">Read my Blogs posts & Articles:</h3>medium
-<!-- BLOG-POST-LIST:START -->
-<div align="left">
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=suryaprakash251201&theme=flat&no-frame=true&margin-w=15" alt="suryaprakash251201" />
+  </a>
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Tech Stack & UI Capabilities</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
+        <br/>JavaScript
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html5" />
+        <br/>HTML5
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+        <br/>CSS3
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
+        <br/>Figma
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap" />
+        <br/>Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="python" />
+        <br/>Python
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="c" />
+        <br/>C
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="c++" />
+        <br/>C++
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
+        <br/>Docker
+      </td>
+       <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="k8s" />
+        <br/>Kubernetes
+      </td>
+    </tr>
+    <tr>
+       <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="gcp" />
+        <br/>GCP
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="azure" />
+        <br/>Azure
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" width="48" height="48" alt="jenkins" />
+        <br/>Jenkins
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="terraform" />
+        <br/>Terraform
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
+        <br/>Linux
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaprakash251201&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakash251201&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" alt="languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash251201&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
+</div>
+
+<br/>
+
+<!-- Blog Section -->
+<div align="center">
+  <h3 align="center">📝 Latest Blog Posts</h3>
   <a href="https://medium.com/@suryaprakash251201" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/src@main/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium" alt="Medium" />
   </a>
 </div>
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">💻 Tech Stack: Known Languages and Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/suryaprakash251201/test.dev@main/AWS-Symbol.png" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakash251201&show_icons=true&locale=en&layout=compact" alt="suryaprakash251201" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryaprakash251201&show_icons=true&locale=en" alt="suryaprakash251201" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash251201&" alt="suryaprakash251201" /></p>
-<div style="text-align: center;">
-<img src="https://github.com/suryaprakash251201/suryaprakash251201/blob/main/src/anubis-golden-jackal-binary-code-sl.jpg" alt="Description of the image">
-<p align="center"><b>Anubis Golden Jackal</p>
+<div align="center">
+  <img src="https://github.com/suryaprakash251201/suryaprakash251201/blob/main/src/anubis-golden-jackal-binary-code-sl.jpg" width="100%" alt="Footer Image" style="border-radius: 10px;">
+  <p align="center"><b>Anubis Golden Jackal</b></p>
 </div>
-
